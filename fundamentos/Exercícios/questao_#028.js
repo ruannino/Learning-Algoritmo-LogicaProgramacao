@@ -8,4 +8,17 @@
 // quantidade de dígitos indicada pelo 
 // segundo parâmetro.
 
-function 
+function seletorNumerosArray(numeros, quantDes) {
+    let resultado = []
+
+    for(numero of numeros){
+        const quantidadeDeNum = String(numero).length
+
+        if(quantidadeDeNum === quantDes)
+        resultado.push(numero)
+    }
+
+    return resultado
+}
+
+console.log(seletorNumerosArray([10, 55, 22, 444, 777, 9], 3))
