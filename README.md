@@ -1,4 +1,5 @@
-[project-learning-javascript-vscode](https://user-images.githubusercontent.com/105193525/203889797-a2939989-16cb-4fa6-86da-7c57bd59a4de.jpg)
+![project-learning-javascript-vscode](https://user-images.githubusercontent.com/105193525/203889968-39fb71ce-5388-4252-9ea7-6ce6fc0d9acb.png)
+
 
 <h1 aling="center"> Java-Learning-Udemy-IntelliJ </h1>
 <h2 aling="center"> Exercises and more </h2>
